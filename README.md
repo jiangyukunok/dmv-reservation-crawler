@@ -1,4 +1,4 @@
-FunnyIdeas__DMV-Driving-Test-Position-Checker-by-Yukun
+Funny ideas
 ======================================================
 
 A self-written code to automatically check whether there is available vacancies for driving test, 
